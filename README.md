@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23560440.svg)](https://doi.org/10.5281/zenodo.23560440)
+
 # The Kessler Cascade Invariant: Why Mega-Constellation Deployment Velocities Violate Orbital Phase-Space Stability
 
 ## Executive Summary
