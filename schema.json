@@ -1,0 +1,12 @@
+{
+  "@context": "[https://schema.org](https://schema.org)",
+  "@type": "ScholarlyArticle",
+  "name": "kessler-cascade-invariant",
+  "author": {
+    "@type": "Organization",
+    "name": "physics-bounded-systems"
+  },
+  "identifier": "10.5281/zenodo.23560440",
+  "encodingFormat": "text/markdown",
+  "sha256Checksum": "b44349bb69d6a5da3b6e0c856e8f04b5b6cd2d2818d47d0ba9fc72ae90ac9d7e"
+}
